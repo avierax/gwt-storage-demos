@@ -2,7 +2,8 @@
 <module>
   <inherits name="com.google.gwt.user.User" />
   <inherits name="com.google.gwt.user.theme.clean.Clean" />
-  <inherits name="com.google.gwt.storage.Storage" />
+  <!--<inherits name="com.google.gwt.storage.Storage" />-->
+  <inherits name="org.gwtproject.storage.Storage" />
 
   <source path="" />
 

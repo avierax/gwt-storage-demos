@@ -2,8 +2,8 @@ package com.tissca.gwttests;
 
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.core.client.GWT;
-import com.google.gwt.storage.client.Storage;
-import com.google.gwt.storage.client.StorageEvent;
+//import com.google.gwt.storage.client.*;
+import org.gwtproject.storage.client.*;
 import com.google.gwt.user.client.Window;
 
 /**
