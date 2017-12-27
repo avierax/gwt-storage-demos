@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.tissca.gwttests</groupId>
-  <artifactId>gwt-storage-test</artifactId>
+  <artifactId>gwt-storage-demo</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
@@ -91,8 +91,8 @@
     </pluginManagement>
   </build>
   <modules>
-    <module>gwt-storage-test-client</module>
-    <module>gwt-storage-test-shared</module>
-    <module>gwt-storage-test-server</module>
+    <module>gwt-storage-demo-client</module>
+    <module>gwt-storage-demo-shared</module>
+    <module>gwt-storage-demo-server</module>
   </modules>
 </project>

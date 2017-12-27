@@ -1,3 +1,4 @@
 /.idea
 **/target/
 *.iml
+/gwt-storage-demo-server/overlays
