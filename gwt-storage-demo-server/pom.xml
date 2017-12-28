@@ -14,7 +14,7 @@
   <dependencies>
     <dependency>
       <groupId>${project.groupId}</groupId>
-      <artifactId>gwt-storage-test-shared</artifactId>
+      <artifactId>gwt-storage-demo-shared</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
@@ -65,7 +65,7 @@
       <dependencies>
         <dependency>
           <groupId>${project.groupId}</groupId>
-          <artifactId>gwt-storage-test-client</artifactId>
+          <artifactId>gwt-storage-demo-client</artifactId>
           <version>${project.version}</version>
           <type>war</type>
           <scope>runtime</scope>
